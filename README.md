@@ -8,7 +8,7 @@
 <p align="center">
   <i>Building things, breaking things, and writing about both.</i>
 </p>
-  About me
+ 
 I am an engineering student who loves hardware, robotics and design
 
 ## learning
