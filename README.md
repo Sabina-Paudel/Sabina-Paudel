@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I am [Sabina Paudel] </
+  
+<p align="center">
+  Final-year Electronics Engineering student (BEI) · IOE Paschimanchal Campus, Pokhara, Nepal 🇳🇵<br>
+  <i>Building things, breaking things, and writing about both.</i>
+</p>
 
-<!--
-**Sabina-Paudel/Sabina-Paudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About me
+I am an engineering student who loves **hardware, robotics and design**
 
-Here are some ideas to get you started:
+## learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ESP32 firmware
+- Git and GitHub 
+- OpenCV and YOLO  
+- PCB design with KiCad
+  
+
+## Tech I use
+
+| Area | Tools |
+|---|---|
+| Programming | C/C++, Python |
+| UI/UX|
+| Embedded | ESP32, Arduino IDE, Raspberry Pi |
+| Hardware design | KiCad |
+| Tools | Git, GitHub, VS Code |
+
+
