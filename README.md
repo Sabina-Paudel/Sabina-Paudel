@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am [Sabina Paudel] </
+<h1 align="center">Hi, I am Sabina Paudel </
   
 <p align="center">
   Final-year Electronics Engineering student (BEI) · IOE Paschimanchal Campus, Pokhara, Nepal 🇳🇵<br>
