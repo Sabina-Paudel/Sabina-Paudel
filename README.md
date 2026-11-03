@@ -1,10 +1,13 @@
-<h1 align="center">Hi, I am Sabina Paudel </
-  
+<h1 align="center">Hi, I am Sabina Paudel.</h1>
+
 <p align="center">
-  Final-year Electronics Engineering student (BEI) · IOE Paschimanchal Campus, Pokhara, Nepal 🇳🇵<br>
-  <i>Building things, breaking things, and writing about both.</i>
+  Final-year Electronics Engineering student (BEI)<br>
+  IOE Paschimanchal Campus, Pokhara, Nepal 🇳🇵
 </p>
 
+<p align="center">
+  <i>Building things, breaking things, and writing about both.</i>
+</p>
 ##  About me
 I am an engineering student who loves **hardware, robotics and design**
 
